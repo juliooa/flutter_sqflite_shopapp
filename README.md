@@ -1,16 +1,6 @@
-# shop_sqlite
+# Sqlite en Flutter
 
-A new Flutter project.
+Si quieres guardar datos de forma local en tus aplicaciones Flutter, una muy buena manera es usar el paquete [sqflite](https://pub.dev/packages/sqflite), con él podrás configurar e integrar una base de datos [SQLite](https://www.sqlite.org/index.html) en tus apps Flutter. En este repo encontraras un ejemplo de implementación de este paquete en una ecommerce app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este proyecto fue creado para el curso **[Flutter: Crea apps multiplataforma para Android y iOS](https://www.udemy.com/course/curso-de-flutter-dart-crea-apps-multiplataforma-ios-android/?referralCode=DA222AC82FB3AA8AC5B2)**.
+Puedes encontrar más detalles de como hacer la integración en la sección "Persistiendo datos de forma local" del curso.
